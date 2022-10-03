@@ -56,7 +56,6 @@ public:
     }
 };
 
-//https://leetcode.com/problems/insert-interval/discuss/21602/Short-and-straight-forward-Java-solution
 //Runtime: 28 ms, faster than 87.60% of C++ online submissions for Insert Interval.
 //Memory Usage: 16.9 MB, less than 89.34% of C++ online submissions for Insert Interval.
 class Solution {
